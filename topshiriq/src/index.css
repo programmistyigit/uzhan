@@ -1,0 +1,10 @@
+body{
+  height: 100vh;
+  overflow: hidden;
+}
+.placeholder::placeholder{
+  color:blueviolet
+}
+.h-90{
+  height: 90%;
+}
